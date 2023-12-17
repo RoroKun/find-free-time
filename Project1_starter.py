@@ -1,3 +1,7 @@
+# Author: Rohan Kunchala
+# Topic: Algorithms 
+# Content: Implementing an algo to find the overlapping free time between multiple peoples' schedules
+
 from datetime import datetime
 import ast
 
